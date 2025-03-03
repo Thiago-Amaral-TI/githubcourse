@@ -1,4 +1,4 @@
-lsalsalsaksl# Github
+# Github
 
 Arquivo de aula de Git e Github para iniciantes.
 
