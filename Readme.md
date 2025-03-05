@@ -4,8 +4,9 @@ Arquivo de aula de Git e Github para iniciantes.
 
 Este é um repositorio que ensina como o git funciona.
 
-Saiba mais no link ...
+O curso é ensinado em código no GitBash
 
-LINK DO PAYPAL
+Link do meus repositórios do Github: [Acesse aqui](https://github.com/Thiago-Amaral-TI?tab=repositories)
 
-Outros cursos em: [link da plataforma](link da plataforma)
+
+Link da playlist: [Acesse aqui para saber os conteúdos](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
